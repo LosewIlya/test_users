@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://raw.githubusercontent.com/LosewIlya/test_users/refs/heads/main/start.png)
 
 После выбора количества пользователей:
 
-![image]()
+![image](https://raw.githubusercontent.com/LosewIlya/test_users/refs/heads/main/fin.png)
 
 ## 💻 Технологии
 
